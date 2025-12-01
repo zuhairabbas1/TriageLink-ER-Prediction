@@ -1,0 +1,107 @@
+hospital_id,standard_name,region,tier,has_pediatric_er,is_trauma_centre,timestamp,hour_of_day,day_of_week,is_weekend,is_night_shift,wait_time_minutes,data_available,day_name,month,year,region_Central Ontario,region_Eastern Ontario,region_GTA,region_Hamilton,region_Niagara,region_Northern Ontario,region_Southwestern Ontario
+4.0,Toronto General Hospital,GTA,0,False,True,2025-11-09 23:52:26,23,6,True,True,142.0,True,Sunday,11,2025,False,False,True,False,False,False,False
+5.0,Toronto Western Hospital,GTA,0,False,True,2025-11-09 23:52:26,23,6,True,True,80.0,True,Sunday,11,2025,False,False,True,False,False,False,False
+47.0,Windsor Regional Hospital - Ouellette Campus,Southwestern Ontario,0,False,False,2025-11-09 23:52:26,23,6,True,True,,False,Sunday,11,2025,False,False,False,False,False,False,True
+48.0,Windsor Regional Hospital - Metropolitan Campus,Southwestern Ontario,0,False,False,2025-11-09 23:52:26,23,6,True,True,,False,Sunday,11,2025,False,False,False,False,False,False,True
+21.0,Timmins and District Hospital,Northern Ontario,0,False,False,2025-11-09 23:52:26,23,6,True,True,,False,Sunday,11,2025,False,False,False,False,False,True,False
+22.0,West Parry Sound Hospital,Northern Ontario,0,False,False,2025-11-09 23:52:26,23,6,True,True,60.0,True,Sunday,11,2025,False,False,False,False,False,True,False
+20.0,North Bay Regional Health Centre,Northern Ontario,0,False,False,2025-11-09 23:52:26,23,6,True,True,352.0,True,Sunday,11,2025,False,False,False,False,False,True,False
+,"Georgian Bay, Midland",,0,,,2025-11-09 23:52:26,23,6,True,True,30.0,True,Sunday,11,2025,False,False,False,False,False,False,False
+,"Grand River, Kitchener",,0,,,2025-11-09 23:52:26,23,6,True,True,118.0,True,Sunday,11,2025,False,False,False,False,False,False,False
+,"St. Mary’s General, Kitchener",,0,,,2025-11-09 23:52:26,23,6,True,True,210.0,True,Sunday,11,2025,False,False,False,False,False,False,False
+42.0,Collingwood General and Marine Hospital,Central Ontario,0,False,False,2025-11-09 23:52:26,23,6,True,True,150.0,True,Sunday,11,2025,True,False,False,False,False,False,False
+43.0,Stevenson Memorial Hospital,Central Ontario,0,False,False,2025-11-09 23:52:26,23,6,True,True,300.0,True,Sunday,11,2025,True,False,False,False,False,False,False
+44.0,London Health Sciences Centre - Children's Hospital,Southwestern Ontario,1,True,True,2025-11-09 23:52:26,23,6,True,True,,False,Sunday,11,2025,False,False,False,False,False,False,True
+45.0,London Health Sciences Centre - University Hospital,Southwestern Ontario,0,False,True,2025-11-09 23:52:26,23,6,True,True,300.0,True,Sunday,11,2025,False,False,False,False,False,False,True
+46.0,London Health Sciences Centre - Victoria Hospital,Southwestern Ontario,0,False,True,2025-11-09 23:52:26,23,6,True,True,345.0,True,Sunday,11,2025,False,False,False,False,False,False,True
+13.0,Lakeridge Health - Oshawa,GTA,0,False,False,2025-11-09 23:52:26,23,6,True,True,121.0,True,Sunday,11,2025,False,False,True,False,False,False,False
+14.0,Lakeridge Health - Ajax,GTA,0,False,False,2025-11-09 23:52:26,23,6,True,True,92.0,True,Sunday,11,2025,False,False,True,False,False,False,False
+15.0,Lakeridge Health - Bowmanville,GTA,0,False,False,2025-11-09 23:52:26,23,6,True,True,188.0,True,Sunday,11,2025,False,False,True,False,False,False,False
+16.0,Lakeridge Health - Port Perry,GTA,0,False,False,2025-11-09 23:52:26,23,6,True,True,93.0,True,Sunday,11,2025,False,False,True,False,False,False,False
+8.0,William Osler Health System - Etobicoke,GTA,2,True,False,2025-11-09 23:52:26,23,6,True,True,34.0,True,Sunday,11,2025,False,False,True,False,False,False,False
+9.0,William Osler Health System - Brampton Civic,GTA,0,False,False,2025-11-09 23:52:26,23,6,True,True,,False,Sunday,11,2025,False,False,True,False,False,False,False
+,Peel Memorial Urgent Care (William Osler Health System),,0,,,2025-11-09 23:52:26,23,6,True,True,,False,Sunday,11,2025,False,False,False,False,False,False,False
+2.0,CHEO (Children's Hospital of Eastern Ontario),Eastern Ontario,1,True,True,2025-11-09 23:52:26,23,6,True,True,488.0,True,Sunday,11,2025,False,True,False,False,False,False,False
+,"King Campus Urgent Care, St. Joseph’s Healthcare Hamilton",,0,,,2025-11-09 23:52:26,23,6,True,True,,False,Sunday,11,2025,False,False,False,False,False,False,False
+33.0,West End Urgent Care Centre,Hamilton,0,False,False,2025-11-09 23:52:26,23,6,True,True,,False,Sunday,11,2025,False,False,False,True,False,False,False
+,McMaster Children’s Hospital,,0,,,2025-11-09 23:52:26,23,6,True,True,91.0,True,Sunday,11,2025,False,False,False,False,False,False,False
+29.0,Hamilton General Hospital,Hamilton,0,False,True,2025-11-09 23:52:26,23,6,True,True,213.0,True,Sunday,11,2025,False,False,False,True,False,False,False
+30.0,Juravinski Hospital,Hamilton,0,False,False,2025-11-09 23:52:26,23,6,True,True,184.0,True,Sunday,11,2025,False,False,False,True,False,False,False
+,"St. Joseph’s Healthcare Hamilton, Charlton Campus",,0,,,2025-11-09 23:52:26,23,6,True,True,33.0,True,Sunday,11,2025,False,False,False,False,False,False,False
+34.0,West Lincoln Memorial Hospital,Niagara,0,False,False,2025-11-09 23:52:26,23,6,True,True,51.0,True,Sunday,11,2025,False,False,False,False,True,False,False
+27.0,Cambridge Memorial Hospital,Southwestern Ontario,0,False,False,2025-11-09 23:52:26,23,6,True,True,,False,Sunday,11,2025,False,False,False,False,False,False,True
+35.0,Niagara Health - St. Catharines,Niagara,0,False,False,2025-11-09 23:52:26,23,6,True,True,240.0,True,Sunday,11,2025,False,False,False,False,True,False,False
+36.0,Niagara Health - Niagara Falls,Niagara,0,False,False,2025-11-09 23:52:26,23,6,True,True,240.0,True,Sunday,11,2025,False,False,False,False,True,False,False
+37.0,Niagara Health - Welland,Niagara,0,False,False,2025-11-09 23:52:26,23,6,True,True,120.0,True,Sunday,11,2025,False,False,False,False,True,False,False
+28.0,Brantford General Hospital,Southwestern Ontario,0,False,False,2025-11-09 23:52:26,23,6,True,True,153.0,True,Sunday,11,2025,False,False,False,False,False,False,True
+38.0,Halton Healthcare - Oakville,GTA,0,False,False,2025-11-09 23:52:26,23,6,True,True,,False,Sunday,11,2025,False,False,True,False,False,False,False
+39.0,Halton Healthcare - Milton,GTA,0,False,False,2025-11-09 23:52:26,23,6,True,True,229.0,True,Sunday,11,2025,False,False,True,False,False,False,False
+40.0,Halton Healthcare - Georgetown,GTA,0,False,False,2025-11-09 23:52:26,23,6,True,True,196.0,True,Sunday,11,2025,False,False,True,False,False,False,False
+6.0,Sunnybrook Health Sciences Centre,GTA,0,False,True,2025-11-09 23:52:26,23,6,True,True,165.0,True,Sunday,11,2025,False,False,True,False,False,False,False
+12.0,Markham Stouffville Hospital,GTA,0,False,False,2025-11-09 23:52:26,23,6,True,True,180.0,True,Sunday,11,2025,False,False,True,False,False,False,False
+52.0,Uxbridge Hospital,Central Ontario,0,False,False,2025-11-09 23:52:26,23,6,True,True,120.0,True,Sunday,11,2025,True,False,False,False,False,False,False
+,"Joseph Brant Hospital, Burlington",,0,,,2025-11-09 23:52:26,23,6,True,True,,False,Sunday,11,2025,False,False,False,False,False,False,False
+26.0,Guelph General Hospital,Southwestern Ontario,0,False,False,2025-11-09 23:52:26,23,6,True,True,,False,Sunday,11,2025,False,False,False,False,False,False,True
+18.0,Mackenzie Health - Richmond Hill,GTA,0,False,False,2025-11-09 23:52:26,23,6,True,True,,False,Sunday,11,2025,False,False,True,False,False,False,False
+19.0,Mackenzie Health - Vaughan,GTA,0,False,False,2025-11-09 23:52:26,23,6,True,True,,False,Sunday,11,2025,False,False,True,False,False,False,False
+7.0,Humber River Hospital,GTA,2,True,False,2025-11-09 23:52:26,23,6,True,True,,False,Sunday,11,2025,False,False,True,False,False,False,False
+10.0,Unity Health Toronto,GTA,2,True,False,2025-11-09 23:52:26,23,6,True,True,,False,Sunday,11,2025,False,False,True,False,False,False,False
+53.0,St. Michael's Hospital,GTA,0,False,True,2025-11-09 23:52:26,23,6,True,True,,False,Sunday,11,2025,False,False,True,False,False,False,False
+11.0,North York General Hospital,GTA,0,False,False,2025-11-09 23:52:26,23,6,True,True,,False,Sunday,11,2025,False,False,True,False,False,False,False
+17.0,Southlake Regional Health Centre,Central Ontario,0,False,False,2025-11-09 23:52:26,23,6,True,True,,False,Sunday,11,2025,True,False,False,False,False,False,False
+51.0,Queensway Carleton Hospital,Eastern Ontario,0,False,False,2025-11-09 23:52:26,23,6,True,True,,False,Sunday,11,2025,False,True,False,False,False,False,False
+49.0,Ottawa Hospital - Civic Campus,Eastern Ontario,0,False,True,2025-11-09 23:52:26,23,6,True,True,,False,Sunday,11,2025,False,True,False,False,False,False,False
+50.0,Ottawa Hospital - General Campus,Eastern Ontario,0,False,True,2025-11-09 23:52:26,23,6,True,True,,False,Sunday,11,2025,False,True,False,False,False,False,False
+4.0,Toronto General Hospital,GTA,0,False,True,2025-11-09 23:57:27,23,6,True,True,142.0,True,Sunday,11,2025,False,False,True,False,False,False,False
+5.0,Toronto Western Hospital,GTA,0,False,True,2025-11-09 23:57:27,23,6,True,True,80.0,True,Sunday,11,2025,False,False,True,False,False,False,False
+47.0,Windsor Regional Hospital - Ouellette Campus,Southwestern Ontario,0,False,False,2025-11-09 23:57:27,23,6,True,True,,False,Sunday,11,2025,False,False,False,False,False,False,True
+48.0,Windsor Regional Hospital - Metropolitan Campus,Southwestern Ontario,0,False,False,2025-11-09 23:57:27,23,6,True,True,,False,Sunday,11,2025,False,False,False,False,False,False,True
+21.0,Timmins and District Hospital,Northern Ontario,0,False,False,2025-11-09 23:57:27,23,6,True,True,,False,Sunday,11,2025,False,False,False,False,False,True,False
+22.0,West Parry Sound Hospital,Northern Ontario,0,False,False,2025-11-09 23:57:27,23,6,True,True,60.0,True,Sunday,11,2025,False,False,False,False,False,True,False
+20.0,North Bay Regional Health Centre,Northern Ontario,0,False,False,2025-11-09 23:57:27,23,6,True,True,352.0,True,Sunday,11,2025,False,False,False,False,False,True,False
+,"Georgian Bay, Midland",,0,,,2025-11-09 23:57:27,23,6,True,True,30.0,True,Sunday,11,2025,False,False,False,False,False,False,False
+,"Grand River, Kitchener",,0,,,2025-11-09 23:57:27,23,6,True,True,118.0,True,Sunday,11,2025,False,False,False,False,False,False,False
+,"St. Mary’s General, Kitchener",,0,,,2025-11-09 23:57:27,23,6,True,True,210.0,True,Sunday,11,2025,False,False,False,False,False,False,False
+42.0,Collingwood General and Marine Hospital,Central Ontario,0,False,False,2025-11-09 23:57:27,23,6,True,True,150.0,True,Sunday,11,2025,True,False,False,False,False,False,False
+43.0,Stevenson Memorial Hospital,Central Ontario,0,False,False,2025-11-09 23:57:27,23,6,True,True,300.0,True,Sunday,11,2025,True,False,False,False,False,False,False
+44.0,London Health Sciences Centre - Children's Hospital,Southwestern Ontario,1,True,True,2025-11-09 23:57:27,23,6,True,True,,False,Sunday,11,2025,False,False,False,False,False,False,True
+45.0,London Health Sciences Centre - University Hospital,Southwestern Ontario,0,False,True,2025-11-09 23:57:27,23,6,True,True,300.0,True,Sunday,11,2025,False,False,False,False,False,False,True
+46.0,London Health Sciences Centre - Victoria Hospital,Southwestern Ontario,0,False,True,2025-11-09 23:57:27,23,6,True,True,345.0,True,Sunday,11,2025,False,False,False,False,False,False,True
+13.0,Lakeridge Health - Oshawa,GTA,0,False,False,2025-11-09 23:57:27,23,6,True,True,121.0,True,Sunday,11,2025,False,False,True,False,False,False,False
+14.0,Lakeridge Health - Ajax,GTA,0,False,False,2025-11-09 23:57:27,23,6,True,True,92.0,True,Sunday,11,2025,False,False,True,False,False,False,False
+15.0,Lakeridge Health - Bowmanville,GTA,0,False,False,2025-11-09 23:57:27,23,6,True,True,188.0,True,Sunday,11,2025,False,False,True,False,False,False,False
+16.0,Lakeridge Health - Port Perry,GTA,0,False,False,2025-11-09 23:57:27,23,6,True,True,93.0,True,Sunday,11,2025,False,False,True,False,False,False,False
+8.0,William Osler Health System - Etobicoke,GTA,2,True,False,2025-11-09 23:57:27,23,6,True,True,34.0,True,Sunday,11,2025,False,False,True,False,False,False,False
+9.0,William Osler Health System - Brampton Civic,GTA,0,False,False,2025-11-09 23:57:27,23,6,True,True,,False,Sunday,11,2025,False,False,True,False,False,False,False
+,Peel Memorial Urgent Care (William Osler Health System),,0,,,2025-11-09 23:57:27,23,6,True,True,,False,Sunday,11,2025,False,False,False,False,False,False,False
+2.0,CHEO (Children's Hospital of Eastern Ontario),Eastern Ontario,1,True,True,2025-11-09 23:57:27,23,6,True,True,488.0,True,Sunday,11,2025,False,True,False,False,False,False,False
+,"King Campus Urgent Care, St. Joseph’s Healthcare Hamilton",,0,,,2025-11-09 23:57:27,23,6,True,True,,False,Sunday,11,2025,False,False,False,False,False,False,False
+33.0,West End Urgent Care Centre,Hamilton,0,False,False,2025-11-09 23:57:27,23,6,True,True,,False,Sunday,11,2025,False,False,False,True,False,False,False
+,McMaster Children’s Hospital,,0,,,2025-11-09 23:57:27,23,6,True,True,91.0,True,Sunday,11,2025,False,False,False,False,False,False,False
+29.0,Hamilton General Hospital,Hamilton,0,False,True,2025-11-09 23:57:27,23,6,True,True,213.0,True,Sunday,11,2025,False,False,False,True,False,False,False
+30.0,Juravinski Hospital,Hamilton,0,False,False,2025-11-09 23:57:27,23,6,True,True,184.0,True,Sunday,11,2025,False,False,False,True,False,False,False
+,"St. Joseph’s Healthcare Hamilton, Charlton Campus",,0,,,2025-11-09 23:57:27,23,6,True,True,33.0,True,Sunday,11,2025,False,False,False,False,False,False,False
+34.0,West Lincoln Memorial Hospital,Niagara,0,False,False,2025-11-09 23:57:27,23,6,True,True,51.0,True,Sunday,11,2025,False,False,False,False,True,False,False
+27.0,Cambridge Memorial Hospital,Southwestern Ontario,0,False,False,2025-11-09 23:57:27,23,6,True,True,,False,Sunday,11,2025,False,False,False,False,False,False,True
+35.0,Niagara Health - St. Catharines,Niagara,0,False,False,2025-11-09 23:57:27,23,6,True,True,240.0,True,Sunday,11,2025,False,False,False,False,True,False,False
+36.0,Niagara Health - Niagara Falls,Niagara,0,False,False,2025-11-09 23:57:27,23,6,True,True,240.0,True,Sunday,11,2025,False,False,False,False,True,False,False
+37.0,Niagara Health - Welland,Niagara,0,False,False,2025-11-09 23:57:27,23,6,True,True,120.0,True,Sunday,11,2025,False,False,False,False,True,False,False
+28.0,Brantford General Hospital,Southwestern Ontario,0,False,False,2025-11-09 23:57:27,23,6,True,True,153.0,True,Sunday,11,2025,False,False,False,False,False,False,True
+38.0,Halton Healthcare - Oakville,GTA,0,False,False,2025-11-09 23:57:27,23,6,True,True,,False,Sunday,11,2025,False,False,True,False,False,False,False
+39.0,Halton Healthcare - Milton,GTA,0,False,False,2025-11-09 23:57:27,23,6,True,True,229.0,True,Sunday,11,2025,False,False,True,False,False,False,False
+40.0,Halton Healthcare - Georgetown,GTA,0,False,False,2025-11-09 23:57:27,23,6,True,True,196.0,True,Sunday,11,2025,False,False,True,False,False,False,False
+6.0,Sunnybrook Health Sciences Centre,GTA,0,False,True,2025-11-09 23:57:27,23,6,True,True,165.0,True,Sunday,11,2025,False,False,True,False,False,False,False
+12.0,Markham Stouffville Hospital,GTA,0,False,False,2025-11-09 23:57:27,23,6,True,True,180.0,True,Sunday,11,2025,False,False,True,False,False,False,False
+52.0,Uxbridge Hospital,Central Ontario,0,False,False,2025-11-09 23:57:27,23,6,True,True,120.0,True,Sunday,11,2025,True,False,False,False,False,False,False
+,"Joseph Brant Hospital, Burlington",,0,,,2025-11-09 23:57:27,23,6,True,True,,False,Sunday,11,2025,False,False,False,False,False,False,False
+26.0,Guelph General Hospital,Southwestern Ontario,0,False,False,2025-11-09 23:57:27,23,6,True,True,,False,Sunday,11,2025,False,False,False,False,False,False,True
+18.0,Mackenzie Health - Richmond Hill,GTA,0,False,False,2025-11-09 23:57:27,23,6,True,True,,False,Sunday,11,2025,False,False,True,False,False,False,False
+19.0,Mackenzie Health - Vaughan,GTA,0,False,False,2025-11-09 23:57:27,23,6,True,True,,False,Sunday,11,2025,False,False,True,False,False,False,False
+7.0,Humber River Hospital,GTA,2,True,False,2025-11-09 23:57:27,23,6,True,True,,False,Sunday,11,2025,False,False,True,False,False,False,False
+10.0,Unity Health Toronto,GTA,2,True,False,2025-11-09 23:57:27,23,6,True,True,,False,Sunday,11,2025,False,False,True,False,False,False,False
+53.0,St. Michael's Hospital,GTA,0,False,True,2025-11-09 23:57:27,23,6,True,True,,False,Sunday,11,2025,False,False,True,False,False,False,False
+11.0,North York General Hospital,GTA,0,False,False,2025-11-09 23:57:27,23,6,True,True,,False,Sunday,11,2025,False,False,True,False,False,False,False
+17.0,Southlake Regional Health Centre,Central Ontario,0,False,False,2025-11-09 23:57:27,23,6,True,True,,False,Sunday,11,2025,True,False,False,False,False,False,False
+51.0,Queensway Carleton Hospital,Eastern Ontario,0,False,False,2025-11-09 23:57:27,23,6,True,True,,False,Sunday,11,2025,False,True,False,False,False,False,False
+49.0,Ottawa Hospital - Civic Campus,Eastern Ontario,0,False,True,2025-11-09 23:57:27,23,6,True,True,,False,Sunday,11,2025,False,True,False,False,False,False,False
+50.0,Ottawa Hospital - General Campus,Eastern Ontario,0,False,True,2025-11-09 23:57:27,23,6,True,True,,False,Sunday,11,2025,False,True,False,False,False,False,False
