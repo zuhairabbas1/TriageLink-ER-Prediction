@@ -1,0 +1,110 @@
+{
+  "content_type": "facility_type_definitions",
+  "version": "1.0",
+  "last_updated": "2025-12-14",
+  "total_types": 4,
+  "facility_types": [
+    {
+      "facility_type": "emergency_department",
+      "display_name": "Emergency Department (ED)",
+      "short_name": "ER/ED",
+      "description": "Hospital emergency departments provide 24/7 care for serious, life-threatening conditions. Equipped to handle major trauma, heart attacks, strokes, and severe illnesses. Staffed by emergency physicians, specialists, and equipped with advanced diagnostic tools.",
+      "when_to_use": [
+        "Life-threatening emergencies (chest pain, difficulty breathing)",
+        "Severe injuries (major trauma, head injury with loss of consciousness)",
+        "Suspected heart attack or stroke",
+        "Severe allergic reactions",
+        "Severe bleeding that won't stop",
+        "Poisoning or overdose"
+      ],
+      "services_available": [
+        "24/7 emergency care",
+        "Advanced diagnostic imaging (CT, MRI, X-ray)",
+        "Emergency surgery capability",
+        "Intensive care units",
+        "Specialist consultations",
+        "Ambulance access"
+      ],
+      "typical_wait_time": "Variable (15 min to 8+ hours based on triage level)",
+      "cost": "Covered by OHIP (Ontario Health Insurance)",
+      "icon": "hospital",
+      "priority_level": 1
+    },
+    {
+      "facility_type": "urgent_care_centre",
+      "display_name": "Urgent Care Centre",
+      "short_name": "Urgent Care",
+      "description": "Urgent care centres handle non-life-threatening injuries and illnesses that require same-day attention but aren't severe enough for the ER. Walk-in, no appointment needed. Extended hours including evenings and weekends.",
+      "when_to_use": [
+        "Minor fractures or sprains",
+        "Cuts requiring stitches (not severe bleeding)",
+        "Moderate fever or flu symptoms",
+        "Minor burns",
+        "Infections (ear, urinary tract)",
+        "Allergic reactions (non-severe)"
+      ],
+      "services_available": [
+        "X-rays and basic diagnostics",
+        "Stitches and wound care",
+        "Splinting for minor fractures",
+        "IV fluids",
+        "Prescription medications",
+        "Extended hours (evenings/weekends)"
+      ],
+      "typical_wait_time": "30 minutes to 3 hours",
+      "cost": "Covered by OHIP (Ontario Health Insurance)",
+      "icon": "urgent_care",
+      "priority_level": 2
+    },
+    {
+      "facility_type": "walk_in_clinic",
+      "display_name": "Walk-in Clinic",
+      "short_name": "Walk-in",
+      "description": "Walk-in clinics provide same-day care for minor illnesses and injuries. No appointment needed, but hours are typically limited to daytime/early evening. Good for issues that aren't urgent but need attention within 24-48 hours.",
+      "when_to_use": [
+        "Cold, flu, or sore throat",
+        "Minor rashes or skin irritations",
+        "Prescription refills",
+        "Minor cuts or scrapes",
+        "Vaccination or travel medicine",
+        "Physical examinations or forms"
+      ],
+      "services_available": [
+        "Basic medical assessments",
+        "Prescription medications",
+        "Minor wound care",
+        "Vaccinations and immunizations",
+        "Lab requisitions",
+        "Medical notes and forms"
+      ],
+      "typical_wait_time": "15 minutes to 2 hours",
+      "cost": "Covered by OHIP (Ontario Health Insurance)",
+      "icon": "clinic",
+      "priority_level": 3
+    },
+    {
+      "facility_type": "telehealth",
+      "display_name": "Telehealth Ontario",
+      "short_name": "Telehealth",
+      "description": "Free, confidential telephone service providing health advice and information from registered nurses 24 hours a day, 7 days a week. Can help you decide if you need to see a doctor, go to an ER, or if you can care for yourself at home.",
+      "when_to_use": [
+        "Unsure if you need medical attention",
+        "Health questions or concerns",
+        "Medication information",
+        "Help deciding where to seek care",
+        "Advice on managing symptoms at home"
+      ],
+      "services_available": [
+        "24/7 registered nurse consultation by phone",
+        "Confidential health advice",
+        "Language interpretation available (multiple languages)",
+        "TTY service for hearing impaired (1-866-797-0007)"
+      ],
+      "typical_wait_time": "Immediate to 15 minutes",
+      "cost": "Free",
+      "phone": "1-866-797-0000",
+      "icon": "phone",
+      "priority_level": 4
+    }
+  ]
+}

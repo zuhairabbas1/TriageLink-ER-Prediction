@@ -1,0 +1,108 @@
+
+================================================================================
+RIGHTER INTERNAL QA DASHBOARD - SUMMARY REPORT
+================================================================================
+
+Generated: 2025-12-30 21:06:37
+Time Period: Last 24 hours
+Hospital: Demo Hospital (Fake Data)
+
+⚠️  IMPORTANT: This is an internal QA tool for clinicians
+   - NOT clinical advice, NOT triage, NOT diagnosis
+   - Uses de-identified/fake data for demonstration
+   - For retrospective QA and risk awareness only
+
+================================================================================
+EXECUTIVE SUMMARY
+================================================================================
+
+Total Patients Triaged (24h):     200
+Currently Waiting:                 84
+Patients Over Target Time:         192 (96.0%)
+High Risk Patients:                80
+Critical Risk Patients:            3
+
+Average Wait Time:                 703.2 minutes
+Median Wait Time:                  644.0 minutes
+Maximum Wait Time:                 1430 minutes
+
+Reassessment Compliance Rate:     100.0%
+
+================================================================================
+CTAS DISTRIBUTION
+================================================================================
+
+CTAS 1:   3 patients (  1.5%)
+CTAS 2:  33 patients ( 16.5%)
+CTAS 3:  82 patients ( 41.0%)
+CTAS 4:  67 patients ( 33.5%)
+CTAS 5:  15 patients (  7.5%)
+
+================================================================================
+OVERDUE ANALYSIS BY CTAS LEVEL
+================================================================================
+
+CTAS 1:
+  Total: 3 | Overdue: 3 (100.0%)
+CTAS 2:
+  Total: 33 | Overdue: 32 (97.0%)
+CTAS 3:
+  Total: 82 | Overdue: 81 (98.8%)
+CTAS 4:
+  Total: 67 | Overdue: 62 (92.5%)
+CTAS 5:
+  Total: 15 | Overdue: 14 (93.3%)
+
+================================================================================
+RISK FLAGS EXPLANATION
+================================================================================
+
+CRITICAL: CTAS 1 patients (immediate life-threatening)
+HIGH:     CTAS 2 overdue OR overdue + abnormal vitals
+MEDIUM:   Any overdue patient
+LOW:      Within target time
+
+"Overdue" means: Elapsed wait time > CTAS target time
+  - CTAS 1: 0 min (immediate)
+  - CTAS 2: 15 min
+  - CTAS 3: 30 min
+  - CTAS 4: 60 min
+  - CTAS 5: 120 min
+
+================================================================================
+KEY INSIGHTS
+================================================================================
+
+1. Overdue Rate: 96.0% of patients are over target time
+   → This is a QA metric, not a clinical severity indicator
+   
+2. High Priority Focus: 80 patients flagged as high risk
+   → Includes CTAS 2 overdue + patients with abnormal vitals
+   
+3. Reassessment Compliance: 100.0%
+   → Percentage of waiting patients who have been reassessed
+   
+4. Wait Time Variability: Max wait is 1430 minutes
+   → Large variation suggests capacity/flow challenges
+
+================================================================================
+DISCLAIMER
+================================================================================
+
+This report is for internal quality assurance purposes only. It does not:
+  - Provide clinical advice or medical recommendations
+  - Replace clinical judgment or triage decisions
+  - Diagnose or assess individual patient conditions
+  - Serve as a patient-facing tool
+
+RightER is a retrospective QA tool to help hospital teams identify:
+  - Wait time patterns
+  - Reassessment compliance gaps
+  - Potential risk indicators for review
+
+All data in this demo is FAKE and de-identified for demonstration purposes.
+No real patient information (PHI) is used or required.
+
+================================================================================
+END OF REPORT
+================================================================================

@@ -1,0 +1,179 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2025-12-14",
+  "events": [
+    {
+      "event_name": "page_view",
+      "description": "User views a page",
+      "properties": {
+        "page_url": "string (required)",
+        "page_title": "string (required)",
+        "referrer": "string (optional)",
+        "session_id": "string (required)",
+        "user_id": "string (optional - anonymous if not logged in)",
+        "timestamp": "datetime (required)",
+        "device_type": "string (mobile|tablet|desktop)",
+        "browser": "string"
+      },
+      "example": {
+        "event_name": "page_view",
+        "page_url": "/map",
+        "page_title": "GTA Hospital Map",
+        "referrer": "/home",
+        "session_id": "abc123",
+        "timestamp": "2025-12-14T15:30:00Z",
+        "device_type": "mobile",
+        "browser": "Chrome"
+      }
+    },
+    {
+      "event_name": "education_card_view",
+      "description": "User views an education card",
+      "properties": {
+        "card_id": "string (required)",
+        "card_title": "string (required)",
+        "category": "string (required)",
+        "session_id": "string (required)",
+        "timestamp": "datetime (required)",
+        "view_duration_seconds": "integer (optional)"
+      },
+      "example": {
+        "event_name": "education_card_view",
+        "card_id": "EDU-001",
+        "card_title": "What Happens When You Call 911?",
+        "category": "emergency_services",
+        "session_id": "abc123",
+        "timestamp": "2025-12-14T15:31:00Z",
+        "view_duration_seconds": 45
+      }
+    },
+    {
+      "event_name": "link_out_click",
+      "description": "User clicks an external link",
+      "properties": {
+        "link_url": "string (required)",
+        "link_text": "string (required)",
+        "link_category": "string (government|hospital|directory|telehealth)",
+        "source_page": "string (required)",
+        "session_id": "string (required)",
+        "timestamp": "datetime (required)"
+      },
+      "example": {
+        "event_name": "link_out_click",
+        "link_url": "https://www.ontario.ca/page/find-healthcare-services",
+        "link_text": "Ontario Health - Find Healthcare Services",
+        "link_category": "government",
+        "source_page": "/resources",
+        "session_id": "abc123",
+        "timestamp": "2025-12-14T15:32:00Z"
+      }
+    },
+    {
+      "event_name": "hospital_marker_click",
+      "description": "User clicks a hospital marker on the map",
+      "properties": {
+        "facility_id": "string (required)",
+        "facility_name": "string (required)",
+        "region": "string (required)",
+        "session_id": "string (required)",
+        "timestamp": "datetime (required)",
+        "user_lat": "float (optional - user location if shared)",
+        "user_lng": "float (optional)",
+        "distance_km": "float (optional - calculated distance)"
+      },
+      "example": {
+        "event_name": "hospital_marker_click",
+        "facility_id": "GTA-H-001",
+        "facility_name": "Toronto General Hospital",
+        "region": "Toronto",
+        "session_id": "abc123",
+        "timestamp": "2025-12-14T15:33:00Z",
+        "distance_km": 5.2
+      }
+    },
+    {
+      "event_name": "facility_filter_applied",
+      "description": "User filters hospitals by region or type",
+      "properties": {
+        "filter_type": "string (region|facility_type)",
+        "filter_value": "string (required)",
+        "results_count": "integer (required)",
+        "session_id": "string (required)",
+        "timestamp": "datetime (required)"
+      },
+      "example": {
+        "event_name": "facility_filter_applied",
+        "filter_type": "region",
+        "filter_value": "Toronto",
+        "results_count": 10,
+        "session_id": "abc123",
+        "timestamp": "2025-12-14T15:34:00Z"
+      }
+    },
+    {
+      "event_name": "survey_complete",
+      "description": "User completes a feedback survey",
+      "properties": {
+        "survey_id": "string (required)",
+        "survey_type": "string (satisfaction|usability|feedback)",
+        "responses": "object (question_id: answer)",
+        "session_id": "string (required)",
+        "timestamp": "datetime (required)"
+      },
+      "example": {
+        "event_name": "survey_complete",
+        "survey_id": "survey_2025_12",
+        "survey_type": "satisfaction",
+        "responses": {
+          "q1_helpful": 5,
+          "q2_clear": 4,
+          "q3_comments": "Very useful for finding hospitals"
+        },
+        "session_id": "abc123",
+        "timestamp": "2025-12-14T15:40:00Z"
+      }
+    },
+    {
+      "event_name": "distance_calculation",
+      "description": "User requests distance calculation from their location",
+      "properties": {
+        "facility_id": "string (required)",
+        "distance_km": "float (required)",
+        "calculation_method": "string (browser_geolocation|postal_code_entry)",
+        "session_id": "string (required)",
+        "timestamp": "datetime (required)"
+      },
+      "example": {
+        "event_name": "distance_calculation",
+        "facility_id": "GTA-H-001",
+        "distance_km": 5.2,
+        "calculation_method": "browser_geolocation",
+        "session_id": "abc123",
+        "timestamp": "2025-12-14T15:35:00Z"
+      }
+    }
+  ],
+  "kpi_metrics": {
+    "engagement": [
+      "total_page_views",
+      "unique_visitors",
+      "avg_session_duration",
+      "education_card_views_per_session"
+    ],
+    "navigation": [
+      "hospital_marker_clicks",
+      "filter_usage_rate",
+      "distance_calculations_per_session"
+    ],
+    "link_out": [
+      "total_external_link_clicks",
+      "link_out_click_rate",
+      "most_clicked_external_resources"
+    ],
+    "satisfaction": [
+      "survey_completion_rate",
+      "average_satisfaction_score",
+      "feedback_sentiment"
+    ]
+  }
+}

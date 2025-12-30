@@ -1,0 +1,170 @@
+{
+  "content_type": "education_cards",
+  "version": "1.0",
+  "last_updated": "2025-12-14",
+  "total_cards": 8,
+  "cards": [
+    {
+      "card_id": "EDU-001",
+      "title": "What Happens When You Call 911?",
+      "category": "emergency_services",
+      "tags": [
+        "911",
+        "emergency",
+        "ambulance"
+      ],
+      "content": "When you call 911 for a medical emergency, paramedics are dispatched to assess and stabilize you on-site. They determine the most appropriate hospital based on your condition and hospital capacity - not patient preference. 911 is for life-threatening emergencies only.",
+      "key_points": [
+        "Paramedics assess your condition on-site",
+        "They choose the hospital based on medical need and capacity",
+        "You cannot request a specific hospital via 911",
+        "Only call 911 for life-threatening emergencies"
+      ],
+      "call_to_action": "If unsure whether to call 911, err on the side of caution and call.",
+      "last_updated": "2025-12-14"
+    },
+    {
+      "card_id": "EDU-002",
+      "title": "What is Triage?",
+      "category": "emergency_process",
+      "tags": [
+        "triage",
+        "priority",
+        "waiting"
+      ],
+      "content": "Triage is the process hospitals use to prioritize patients based on medical urgency, not arrival time. A nurse assesses your condition when you arrive and assigns a priority level (CTAS 1-5). More urgent cases are seen first, even if they arrived after you.",
+      "key_points": [
+        "Patients are prioritized by medical urgency, not arrival order",
+        "CTAS Level 1 (Resuscitation) - immediate",
+        "CTAS Level 2 (Emergent) - within 15 minutes",
+        "CTAS Level 3 (Urgent) - within 30 minutes",
+        "CTAS Level 4-5 (Less urgent) - may wait hours"
+      ],
+      "call_to_action": "Your wait time depends on how urgent your condition is compared to others.",
+      "last_updated": "2025-12-14"
+    },
+    {
+      "card_id": "EDU-003",
+      "title": "Why Do ER Wait Times Vary?",
+      "category": "wait_times",
+      "tags": [
+        "wait_times",
+        "factors",
+        "expectations"
+      ],
+      "content": "Emergency department wait times fluctuate based on multiple unpredictable factors: current patient volume, severity of cases, available staff, incoming ambulances, and hospital bed availability. Wait times are estimates and can change suddenly.",
+      "key_points": [
+        "Wait times are estimates, not guarantees",
+        "Multiple emergencies can arrive simultaneously",
+        "Staff availability affects wait times",
+        "Hospital capacity changes throughout the day",
+        "Your condition may change, affecting priority"
+      ],
+      "call_to_action": "Expect variability - ERs handle unpredictable emergencies 24/7.",
+      "last_updated": "2025-12-14"
+    },
+    {
+      "card_id": "EDU-004",
+      "title": "When Should You Go to the Emergency Room?",
+      "category": "decision_making",
+      "tags": [
+        "emergency",
+        "symptoms",
+        "decision"
+      ],
+      "content": "Visit the ER for serious, potentially life-threatening conditions: chest pain, difficulty breathing, severe bleeding, head injury with confusion, sudden numbness or weakness, severe allergic reactions, or loss of consciousness. For minor issues, consider urgent care or walk-in clinics.",
+      "key_points": [
+        "ER is for serious, potentially life-threatening conditions",
+        "Chest pain, breathing difficulty \u2192 ER",
+        "Severe bleeding, head injury \u2192 ER",
+        "Minor cuts, sprains, colds \u2192 Urgent care or walk-in clinic",
+        "When in doubt, call Telehealth Ontario (1-866-797-0000)"
+      ],
+      "call_to_action": "Not sure? Call Telehealth Ontario for guidance: 1-866-797-0000",
+      "last_updated": "2025-12-14"
+    },
+    {
+      "card_id": "EDU-005",
+      "title": "What to Expect in the Emergency Department",
+      "category": "emergency_process",
+      "tags": [
+        "process",
+        "expectations",
+        "experience"
+      ],
+      "content": "Your ER visit typically involves: registration, triage assessment, waiting, seeing a doctor, tests or treatment, and discharge or admission. The process can take several hours even for non-emergency cases. Bring your health card, medication list, and be prepared to wait.",
+      "key_points": [
+        "Process: Registration \u2192 Triage \u2192 Waiting \u2192 Doctor \u2192 Tests \u2192 Discharge",
+        "Bring: Health card, medication list, family contact",
+        "Expect several hours, even for minor issues",
+        "You may see multiple staff members",
+        "Tests and procedures take time to complete"
+      ],
+      "call_to_action": "Prepare for a multi-hour visit and bring essentials.",
+      "last_updated": "2025-12-14"
+    },
+    {
+      "card_id": "EDU-006",
+      "title": "Understanding CTAS Levels (Canadian Triage Acuity Scale)",
+      "category": "triage_system",
+      "tags": [
+        "CTAS",
+        "triage",
+        "priority",
+        "urgency"
+      ],
+      "content": "Canada's emergency departments use the CTAS system to prioritize patients. Level 1 (Resuscitation) is immediate life-threatening, Level 2 (Emergent) is very urgent, Level 3 (Urgent) should be seen within 30 minutes, Level 4 (Less Urgent) within 1-2 hours, and Level 5 (Non-Urgent) within 2-4 hours.",
+      "key_points": [
+        "CTAS 1 - Resuscitation (immediate): cardiac arrest, major trauma",
+        "CTAS 2 - Emergent (15 min): chest pain, severe breathing difficulty",
+        "CTAS 3 - Urgent (30 min): moderate pain, minor fractures",
+        "CTAS 4 - Less Urgent (60 min): minor injuries, stable chronic conditions",
+        "CTAS 5 - Non-Urgent (120 min): minor complaints, prescription refills"
+      ],
+      "call_to_action": "Your triage level determines your wait time priority.",
+      "last_updated": "2025-12-14"
+    },
+    {
+      "card_id": "EDU-007",
+      "title": "Alternatives to the Emergency Room",
+      "category": "alternatives",
+      "tags": [
+        "urgent_care",
+        "walk_in",
+        "telehealth",
+        "alternatives"
+      ],
+      "content": "For non-life-threatening issues, consider alternatives to the ER: Urgent Care Centres (sprains, minor cuts, fever), Walk-in Clinics (cold, flu, rash), Telehealth Ontario (medical advice by phone), or your Family Doctor. These options often have shorter wait times for non-emergencies.",
+      "key_points": [
+        "Urgent Care: Open evenings/weekends, no appointment needed",
+        "Walk-in Clinics: Minor illnesses, prescription refills",
+        "Telehealth Ontario: 1-866-797-0000 (free, 24/7 nurse advice)",
+        "Family Doctor: Best for ongoing care and follow-ups",
+        "Pharmacist: Can help with minor ailments and medication questions"
+      ],
+      "call_to_action": "Save ER visits for true emergencies - explore alternatives for minor issues.",
+      "last_updated": "2025-12-14"
+    },
+    {
+      "card_id": "EDU-008",
+      "title": "What Information to Bring to the ER",
+      "category": "preparation",
+      "tags": [
+        "preparation",
+        "documents",
+        "medication"
+      ],
+      "content": "Arriving prepared helps speed up your ER visit. Bring your Ontario Health Card, photo ID, list of current medications (including dosages), list of allergies, recent test results if applicable, and emergency contact information. Having this ready saves time during registration and triage.",
+      "key_points": [
+        "Ontario Health Card (OHIP card) - essential",
+        "Photo ID (driver's license or passport)",
+        "Medication list with dosages and frequency",
+        "Allergy list (medications, foods, environmental)",
+        "Emergency contact phone numbers",
+        "Recent medical records or test results (if relevant)"
+      ],
+      "call_to_action": "Keep a prepared ER information card in your wallet or phone.",
+      "last_updated": "2025-12-14"
+    }
+  ]
+}

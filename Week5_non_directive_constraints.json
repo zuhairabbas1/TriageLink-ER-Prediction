@@ -1,0 +1,61 @@
+{
+  "non_directive_principles": {
+    "title": "Non-Directive Navigation Constraints",
+    "description": "RightER Flow presents options without making recommendations or directing users to specific facilities.",
+    "last_updated": "2025-12-14"
+  },
+  "forbidden_language": [
+    "You should go to...",
+    "We recommend...",
+    "Best option for you is...",
+    "This hospital is better than...",
+    "Go here instead of...",
+    "You need to visit...",
+    "The right choice is..."
+  ],
+  "allowed_language": [
+    "Here are hospitals in your area",
+    "Options include...",
+    "Facilities available:",
+    "You can choose from...",
+    "These facilities are available",
+    "Sorted by distance",
+    "Listed alphabetically"
+  ],
+  "sorting_options": {
+    "allowed": [
+      "alphabetical (A-Z)",
+      "distance (nearest first)",
+      "region (grouped by area)"
+    ],
+    "forbidden": [
+      "recommended",
+      "best match",
+      "most suitable",
+      "highest rated",
+      "fastest wait time"
+    ]
+  },
+  "display_rules": {
+    "facility_listing": "Display all facilities equally with no visual hierarchy based on recommendation",
+    "distance_calculation": "Show distance as neutral information, not as a suggestion",
+    "facility_details": "Present factual information (address, contact, type) without editorial comments",
+    "wait_time_display": "If available in future, show as estimate with disclaimer, not as decisive factor"
+  },
+  "backend_constraints": {
+    "api_responses": "Return facilities in neutral order (alphabetical or distance-based) with no 'recommended' flag",
+    "no_filtering_logic": "Do not filter out facilities based on assumed user preferences",
+    "equal_representation": "All facilities receive equal data completeness and quality"
+  },
+  "educational_approach": {
+    "inform": "Provide factual education about facility types and when to seek care",
+    "empower": "Give users information to make their own informed decisions",
+    "avoid_directing": "Do not tell users where to go or what to do"
+  },
+  "legal_disclaimers": [
+    "This tool is for informational purposes only",
+    "Not a substitute for medical advice",
+    "In emergencies, call 911",
+    "Consult healthcare professionals for medical decisions"
+  ]
+}

@@ -1,0 +1,85 @@
+patient_id,ctas_level,chief_complaint,age_band,abnormal_vitals,elapsed_wait_minutes,overdue_flag,risk_level
+PT-0129,1,Minor trauma,18-40,Y,1197,Y,Critical
+PT-0172,1,Back pain,0-17,N,1006,Y,Critical
+PT-0077,4,Fever,41-65,Y,1418,Y,High
+PT-0176,3,Abdominal pain,18-40,Y,1409,Y,High
+PT-0131,3,Back pain,18-40,Y,1366,Y,High
+PT-0005,2,Laceration,41-65,Y,1352,Y,High
+PT-0097,3,Minor trauma,41-65,Y,1314,Y,High
+PT-0014,3,Minor trauma,18-40,Y,1298,Y,High
+PT-0124,2,Fever,18-40,Y,1239,Y,High
+PT-0053,5,Back pain,66-80,Y,1225,Y,High
+PT-0136,3,Headache,0-17,Y,1094,Y,High
+PT-0132,3,Fever,41-65,Y,1055,Y,High
+PT-0112,2,Headache,0-17,Y,1021,Y,High
+PT-0013,4,Shortness of breath,41-65,Y,866,Y,High
+PT-0100,2,Back pain,0-17,N,837,Y,High
+PT-0177,4,Chest pain,66-80,Y,771,Y,High
+PT-0078,2,Nausea/vomiting,41-65,Y,626,Y,High
+PT-0140,5,Injury - fall,0-17,Y,565,Y,High
+PT-0127,4,Laceration,41-65,Y,504,Y,High
+PT-0138,4,Psychiatric,41-65,Y,502,Y,High
+PT-0041,2,Nausea/vomiting,66-80,N,490,Y,High
+PT-0099,2,Laceration,41-65,N,432,Y,High
+PT-0156,3,Headache,41-65,Y,368,Y,High
+PT-0095,4,Minor trauma,0-17,Y,284,Y,High
+PT-0075,4,Shortness of breath,41-65,Y,283,Y,High
+PT-0050,3,Chest pain,66-80,Y,258,Y,High
+PT-0188,3,Laceration,18-40,Y,242,Y,High
+PT-0113,5,Injury - fall,0-17,Y,235,Y,High
+PT-0043,2,Allergic reaction,66-80,N,163,Y,High
+PT-0198,4,Fever,18-40,Y,153,Y,High
+PT-0175,4,Chest pain,0-17,Y,99,Y,High
+PT-0101,2,Chest pain,0-17,Y,39,Y,High
+PT-0055,4,Laceration,18-40,N,1426,Y,Medium
+PT-0184,4,Allergic reaction,66-80,N,1423,Y,Medium
+PT-0103,3,Headache,41-65,N,1390,Y,Medium
+PT-0064,3,Back pain,41-65,N,1346,Y,Medium
+PT-0126,3,Nausea/vomiting,41-65,N,1324,Y,Medium
+PT-0017,3,Minor trauma,18-40,N,1296,Y,Medium
+PT-0155,5,Chest pain,0-17,N,1285,Y,Medium
+PT-0024,3,Minor trauma,18-40,N,1243,Y,Medium
+PT-0083,3,Nausea/vomiting,18-40,N,1223,Y,Medium
+PT-0052,4,Nausea/vomiting,18-40,N,1213,Y,Medium
+PT-0150,3,Injury - fall,41-65,N,1156,Y,Medium
+PT-0060,3,Headache,0-17,N,1117,Y,Medium
+PT-0092,4,Nausea/vomiting,0-17,N,1085,Y,Medium
+PT-0118,3,Abdominal pain,18-40,N,1070,Y,Medium
+PT-0026,4,Injury - fall,18-40,N,1050,Y,Medium
+PT-0135,5,Minor trauma,0-17,N,1023,Y,Medium
+PT-0034,5,Headache,41-65,N,1021,Y,Medium
+PT-0134,3,Back pain,0-17,N,966,Y,Medium
+PT-0020,3,Psychiatric,66-80,N,938,Y,Medium
+PT-0046,4,Laceration,66-80,N,924,Y,Medium
+PT-0028,3,Headache,18-40,N,887,Y,Medium
+PT-0025,3,Laceration,18-40,N,862,Y,Medium
+PT-0186,4,Chest pain,66-80,N,851,Y,Medium
+PT-0045,3,Minor trauma,0-17,N,843,Y,Medium
+PT-0137,3,Back pain,66-80,N,801,Y,Medium
+PT-0016,3,Nausea/vomiting,18-40,N,776,Y,Medium
+PT-0161,3,Abdominal pain,18-40,N,752,Y,Medium
+PT-0174,3,Fever,41-65,N,718,Y,Medium
+PT-0010,4,Injury - fall,18-40,N,641,Y,Medium
+PT-0049,3,Minor trauma,80+,N,635,Y,Medium
+PT-0197,4,Headache,66-80,N,610,Y,Medium
+PT-0061,3,Headache,41-65,N,597,Y,Medium
+PT-0054,4,Psychiatric,18-40,N,493,Y,Medium
+PT-0121,4,Chest pain,41-65,N,472,Y,Medium
+PT-0170,4,Headache,0-17,N,451,Y,Medium
+PT-0088,4,Injury - fall,41-65,N,448,Y,Medium
+PT-0039,4,Headache,41-65,N,444,Y,Medium
+PT-0152,3,Fever,66-80,N,438,Y,Medium
+PT-0019,3,Shortness of breath,41-65,N,434,Y,Medium
+PT-0102,4,Fever,41-65,N,427,Y,Medium
+PT-0116,4,Injury - fall,41-65,N,416,Y,Medium
+PT-0104,3,Fever,41-65,N,388,Y,Medium
+PT-0098,3,Chest pain,18-40,N,311,Y,Medium
+PT-0193,4,Fever,18-40,N,304,Y,Medium
+PT-0123,3,Fever,41-65,N,280,Y,Medium
+PT-0056,5,Abdominal pain,41-65,N,260,Y,Medium
+PT-0148,3,Headache,0-17,N,256,Y,Medium
+PT-0143,3,Psychiatric,18-40,N,235,Y,Medium
+PT-0195,3,Chest pain,18-40,N,195,Y,Medium
+PT-0032,3,Laceration,41-65,N,186,Y,Medium
+PT-0187,4,Abdominal pain,18-40,N,46,N,Low
+PT-0063,4,Shortness of breath,0-17,N,6,N,Low

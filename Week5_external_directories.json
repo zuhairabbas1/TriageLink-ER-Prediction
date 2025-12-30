@@ -1,0 +1,54 @@
+{
+  "content_type": "external_directory_links",
+  "version": "1.0",
+  "last_updated": "2025-12-14",
+  "total_directories": 5,
+  "directories": [
+    {
+      "directory_id": "EXT-001",
+      "name": "Ontario Health - Find Healthcare Services",
+      "description": "Official Ontario government tool to find hospitals, clinics, and healthcare providers in your area.",
+      "url": "https://www.ontario.ca/page/find-healthcare-services",
+      "category": "government",
+      "reliability": "authoritative",
+      "last_verified": "2025-12-14"
+    },
+    {
+      "directory_id": "EXT-002",
+      "name": "Health Care Connect",
+      "description": "Free service to help you find a family doctor or nurse practitioner in Ontario.",
+      "url": "https://www.ontario.ca/page/find-family-doctor-or-nurse-practitioner",
+      "category": "primary_care",
+      "reliability": "authoritative",
+      "last_verified": "2025-12-14"
+    },
+    {
+      "directory_id": "EXT-003",
+      "name": "Telehealth Ontario",
+      "description": "24/7 free health advice from registered nurses by phone.",
+      "url": "https://www.ontario.ca/page/get-medical-advice-telehealth-ontario",
+      "phone": "1-866-797-0000",
+      "category": "telehealth",
+      "reliability": "authoritative",
+      "last_verified": "2025-12-14"
+    },
+    {
+      "directory_id": "EXT-004",
+      "name": "College of Physicians and Surgeons of Ontario - Doctor Search",
+      "description": "Verify a physician's credentials and find doctors by location or specialty.",
+      "url": "https://www.cpso.on.ca/Public-Information-Services/Find-a-Doctor",
+      "category": "physician_lookup",
+      "reliability": "authoritative",
+      "last_verified": "2025-12-14"
+    },
+    {
+      "directory_id": "EXT-005",
+      "name": "Ontario Hospitals - OHA Member Directory",
+      "description": "Ontario Hospital Association's directory of member hospitals.",
+      "url": "https://www.oha.com/",
+      "category": "hospital_directory",
+      "reliability": "professional_association",
+      "last_verified": "2025-12-14"
+    }
+  ]
+}

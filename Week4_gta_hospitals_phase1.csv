@@ -1,0 +1,26 @@
+facility_id,name,facility_type,street_address,city,province,postal_code,region,latitude,longitude,website,has_emergency_dept,data_source
+GTA-H-001,Toronto General Hospital (University Health Network),Hospital,200 Elizabeth Street,Toronto,Ontario,M5G 2C4,Toronto,43.6591,-79.39,https://www.uhn.ca/TorontoGeneral,True,Hospital website + Google Maps
+GTA-H-002,Toronto Western Hospital (University Health Network),Hospital,399 Bathurst Street,Toronto,Ontario,M5T 2S8,Toronto,43.6554,-79.4112,https://www.uhn.ca/TorontoWestern,True,Hospital website + Google Maps
+GTA-H-003,Sunnybrook Health Sciences Centre,Hospital,2075 Bayview Avenue,Toronto,Ontario,M4N 3M5,Toronto,43.7232,-79.3774,https://sunnybrook.ca,True,Hospital website + Google Maps
+GTA-H-004,St. Michael's Hospital (Unity Health Toronto),Hospital,30 Bond Street,Toronto,Ontario,M5B 1W8,Toronto,43.6543,-79.3768,https://unityhealth.to,True,Hospital website + Google Maps
+GTA-H-005,St. Joseph's Health Centre (Unity Health Toronto),Hospital,30 The Queensway,Toronto,Ontario,M6R 1B5,Toronto,43.6388,-79.4636,https://unityhealth.to,True,Hospital website + Google Maps
+GTA-H-006,North York General Hospital,Hospital,4001 Leslie Street,Toronto,Ontario,M2K 1E1,Toronto,43.7652,-79.4107,https://www.nygh.on.ca,True,Hospital website + Google Maps
+GTA-H-007,Humber River Hospital,Hospital,1235 Wilson Avenue,Toronto,Ontario,M3M 0B2,Toronto,43.7358,-79.5143,https://www.hrh.ca,True,Hospital website + Google Maps
+GTA-H-008,Michael Garron Hospital,Hospital,825 Coxwell Avenue,Toronto,Ontario,M4C 3E7,Toronto,43.6861,-79.3196,https://www.tehn.ca,True,Hospital website + Google Maps
+GTA-H-009,The Hospital for Sick Children (SickKids),Hospital,555 University Avenue,Toronto,Ontario,M5G 1X8,Toronto,43.6571,-79.3897,https://www.sickkids.ca,True,Hospital website + Google Maps
+GTA-H-010,Mount Sinai Hospital,Hospital,600 University Avenue,Toronto,Ontario,M5G 1X5,Toronto,43.6569,-79.3897,https://www.sinaihealth.ca,True,Hospital website + Google Maps
+GTA-H-011,Trillium Health Partners - Mississauga Hospital,Hospital,100 Queensway West,Mississauga,Ontario,L5B 1B8,Peel,43.5949,-79.6411,https://www.trilliumhealthpartners.ca,True,Hospital website + Google Maps
+GTA-H-012,Trillium Health Partners - Credit Valley Hospital,Hospital,2200 Eglinton Avenue West,Mississauga,Ontario,L5M 2N1,Peel,43.5765,-79.6699,https://www.trilliumhealthpartners.ca,True,Hospital website + Google Maps
+GTA-H-013,William Osler Health System - Brampton Civic Hospital,Hospital,2100 Bovaird Drive East,Brampton,Ontario,L6R 3J7,Peel,43.7312,-79.7164,https://www.williamoslerhs.ca,True,Hospital website + Google Maps
+GTA-H-014,William Osler Health System - Etobicoke General Hospital,Hospital,101 Humber College Boulevard,Toronto,Ontario,M9V 1R8,Peel,43.7326,-79.5764,https://www.williamoslerhs.ca,True,Hospital website + Google Maps
+GTA-H-015,Mackenzie Health - Mackenzie Richmond Hill Hospital,Hospital,10 Trench Street,Richmond Hill,Ontario,L4C 4Z3,York,43.8627,-79.4378,https://www.mackenziehealth.ca,True,Hospital website + Google Maps
+GTA-H-016,Mackenzie Health - Cortellucci Vaughan Hospital,Hospital,3027 Major Mackenzie Drive,Vaughan,Ontario,L6A 4S5,York,43.8421,-79.5325,https://www.mackenziehealth.ca,True,Hospital website + Google Maps
+GTA-H-017,Markham Stouffville Hospital,Hospital,381 Church Street,Markham,Ontario,L6B 1A1,York,43.8827,-79.2614,https://www.msh.on.ca,True,Hospital website + Google Maps
+GTA-H-018,Southlake Regional Health Centre,Hospital,596 Davis Drive,Newmarket,Ontario,L3Y 2P9,York,44.0505,-79.4631,https://www.southlakeregional.org,True,Hospital website + Google Maps
+GTA-H-019,Halton Healthcare - Oakville Trafalgar Memorial Hospital,Hospital,3001 Hospital Gate,Oakville,Ontario,L6M 0L8,Halton,43.4236,-79.7363,https://www.haltonhealthcare.com,True,Hospital website + Google Maps
+GTA-H-020,Joseph Brant Hospital,Hospital,1230 North Shore Boulevard East,Burlington,Ontario,L7S 1W7,Halton,43.3297,-79.8078,https://www.josephbranthospital.ca,True,Hospital website + Google Maps
+GTA-H-021,Halton Healthcare - Milton District Hospital,Hospital,725 Main Street East,Milton,Ontario,L9T 6K9,Halton,43.518,-79.8781,https://www.haltonhealthcare.com,True,Hospital website + Google Maps
+GTA-H-022,Lakeridge Health - Oshawa,Hospital,1 Hospital Court,Oshawa,Ontario,L1G 2B9,Durham,43.8971,-78.8656,https://www.lakeridgehealth.on.ca,True,Hospital website + Google Maps
+GTA-H-023,Lakeridge Health - Ajax Pickering,Hospital,580 Harwood Avenue South,Ajax,Ontario,L1S 2J4,Durham,43.8511,-79.0365,https://www.lakeridgehealth.on.ca,True,Hospital website + Google Maps
+GTA-H-024,Lakeridge Health - Whitby,Hospital,300 Gordon Street,Whitby,Ontario,L1N 5T2,Durham,43.8704,-78.9366,https://www.lakeridgehealth.on.ca,True,Hospital website + Google Maps
+GTA-H-025,Lakeridge Health - Bowmanville,Hospital,47 Liberty Street South,Bowmanville,Ontario,L1C 2N4,Durham,43.9113,-78.6884,https://www.lakeridgehealth.on.ca,True,Hospital website + Google Maps
